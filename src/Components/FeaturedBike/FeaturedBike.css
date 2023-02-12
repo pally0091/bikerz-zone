@@ -1,0 +1,21 @@
+#bike-container{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: auto;
+    justify-content: space-evenly;
+}
+#bike-container img{
+    width: 30%;
+    height: auto;
+}
+#container{
+    background-color: white;
+    margin-top: -1.5rem;
+}
+h1{
+    
+    font-weight: bold;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
