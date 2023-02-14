@@ -1,0 +1,24 @@
+span{
+    color: #E76F51;
+}
+#client-container{
+    width: 80%;
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    margin: auto;
+    text-align: center;
+}
+.client-img{
+    width: 50%;
+    margin: auto;
+}
+#client-container card{
+    text-align: center;
+}
+.clients-name{
+    color: #23A6F0;
+    font-weight: 600;
+    font-size: 14px;
+}
