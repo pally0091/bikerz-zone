@@ -1,9 +1,10 @@
 import React from 'react';
 import Navbar from './Navbar/Navbar';
-import './Main.css'
+import './Main.css';
 import Banner from './Banner/Banner';
 import FeaturedBike from './FeaturedBike/FeaturedBike';
 import NewsFeed from './NewsFeed/NewsFeed';
+import Client from './Client/Client';
 const Main = () => {
     return (
         <div>
@@ -13,6 +14,7 @@ const Main = () => {
             </div>
             <FeaturedBike></FeaturedBike>
             <NewsFeed></NewsFeed>
+            <Client></Client>
         </div>
     );
 };
