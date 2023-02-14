@@ -5,6 +5,7 @@ import Banner from './Banner/Banner';
 import FeaturedBike from './FeaturedBike/FeaturedBike';
 import NewsFeed from './NewsFeed/NewsFeed';
 import Client from './Client/Client';
+import Footer from './Footer/Footer';
 const Main = () => {
     return (
         <div>
@@ -15,6 +16,7 @@ const Main = () => {
             <FeaturedBike></FeaturedBike>
             <NewsFeed></NewsFeed>
             <Client></Client>
+            <Footer></Footer>
         </div>
     );
 };
