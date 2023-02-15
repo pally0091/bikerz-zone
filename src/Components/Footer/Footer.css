@@ -1,0 +1,31 @@
+#footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    text-align: left;
+    padding: 3rem;
+    margin-top: 1rem;
+}
+#f-ccontents{
+    width: 80%;
+}
+#f-apps{
+    width:20%;
+}
+#f-img{
+    width: 60%
+}
+#f-img img{
+    width: 100%;
+    margin-top: 1rem;
+}
+#l-1 a{
+    text-decoration: none;
+    color: white;
+    margin: 0.5rem;
+}
+#l-2 a{
+    text-decoration: none;
+        color: white;
+        margin: 0.5rem;
+}

@@ -6,6 +6,7 @@ import FeaturedBike from './FeaturedBike/FeaturedBike';
 import NewsFeed from './NewsFeed/NewsFeed';
 import Client from './Client/Client';
 import Footer from './Footer/Footer';
+import FAQ from './FAQ/FAQ';
 const Main = () => {
     return (
         <div>
@@ -16,6 +17,7 @@ const Main = () => {
             <FeaturedBike></FeaturedBike>
             <NewsFeed></NewsFeed>
             <Client></Client>
+            <FAQ></FAQ>
             <Footer></Footer>
         </div>
     );
