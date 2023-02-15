@@ -1,0 +1,18 @@
+#faq h1 span{
+    color: #E76F51;
+}
+#faq-container{
+    width: 75%;
+    margin: auto;
+    margin-top: 20px;
+}
+#faq-img{
+    width: 50%;
+}
+#faq-img img{
+    width: 100%;
+    height: auto;
+}
+#accor{
+    width: 50%;
+}
