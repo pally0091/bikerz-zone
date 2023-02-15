@@ -5,9 +5,11 @@
     width: 75%;
     margin: auto;
     margin-top: 20px;
+    display: flex;
 }
 #faq-img{
     width: 50%;
+    padding: 0.5rem;
 }
 #faq-img img{
     width: 100%;
@@ -15,4 +17,5 @@
 }
 #accor{
     width: 50%;
+    padding: 0.5rem;
 }
